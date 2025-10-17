@@ -1,6 +1,17 @@
 <p><strong>Taylor R. Luckenbill</strong></p>
 <p>39 Charnwood Rd. Apt. 3, Somerville, MA 02144 ● (570) 640-6762•
 tluck1531@gmail.com</p>
+
+<p><strong>Core Competencies</strong></p>
+
+<li><p>Currently serving as the co-director of enterprise systems as Welch's looks to backfill the posmition.</p></li>
+</ul></li>
+<p><strong>Business Process Improvement| Enterprise Project Portfolio
+Management| Trade Promotion Management| Data Analytics| Product
+Management| Cross Functional Team Building| Leadership| Strategic
+Planning| Growth Mindset| Executive Level Communication| Customer
+Service| Product Information Management</strong></p>
+
 <p><strong>Professional Experience</strong></p>
 
 <p><strong>Sr. Solution Architect – Supply Chain Planning</strong></p>
@@ -12,14 +23,6 @@ systems.</p>
 <li><p>IT Lead for implementation of Infor Food and Beverage Suite as well as the Advanced SUpply Chain Planning extension, which covers constraint based supply planning, harvest containment model, demand planning model, production scheduling model, and a recipe management model.</p></li>
 <li><p>Responsible for IT support and enhancement of the monthly S&OP cycle, which has included the implementation of an application supporting an interface layer, data layer, reporting layer, and review layer. This enhancement moved a disconnected loose file based process into a single closed environment.</p></li>
 <li><p>Enterprise Systems PMO supporting all vendor, PO, and budget inquiries for the Enterprise Systems department for both the ERP project as well as the yearly fiscal budget.</p></li>
-<li><p>Currently serving as the co-director of enterprise systems as Welch's looks to backfill the posmition.</p></li>
-</ul></li>
-<p><strong>Business Process Improvement| Enterprise Project Portfolio
-Management| Trade Promotion Management| Data Analytics| Product
-Management| Cross Functional Team Building| Leadership| Strategic
-Planning| Growth Mindset| Executive Level Communication| Customer
-Service| Product Information Management</strong></p>
-<p><strong>PROFESSIONAL EXPERIENCE</strong></p>
 <p><strong>Welch Foods Inc., Concord, MA 2020 – Present</strong></p>
 <p><strong>Sr. Solution Delivery Lead – Sales and Marketing</strong></p>
 <ul>
