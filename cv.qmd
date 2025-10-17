@@ -1,20 +1,106 @@
 <p><strong>Taylor R. Luckenbill</strong></p>
 <p>39 Charnwood Rd. Apt. 3, Somerville, MA 02144 ● (570) 640-6762 ● tluck1531@gmail.com</p>
 
-<h3><strong>Core Competencies</strong></h3>
+<p><strong>Core Competencies</strong></p>
 <p>
-  Business Process Improvement | Enterprise Project Portfolio Management | Trade Promotion Management |
-  Data Analytics | Product Management | Cross Functional Team Building | Leadership | Strategic Planning |
-  Growth Mindset | Executive Level Communication | Customer Service | Product Information Management
+Business Process Improvement | Enterprise Project Portfolio Management | Trade Promotion Management | 
+Data Analytics | Product Management | Cross Functional Team Building | Leadership | Strategic Planning | 
+Growth Mindset | Executive Level Communication | Customer Service | Product Information Management
 </p>
 
-<h3><strong>Professional Experience</strong></h3>
+<p><strong>Professional Experience</strong></p>
 
-<p><strong>Welch Foods Inc., Concord, MA — 2020 – Present</strong></p>
+<p><strong>Welch Foods Inc., Concord, MA (2020 – Present)</strong></p>
+
 <p><strong>Sr. Solution Architect – Supply Chain Planning</strong></p>
-
 <ul>
   <li>Plan to Produce IT Lead on a fifty-million-dollar transformational agenda focused on replacing legacy ERP and other legacy systems.</li>
-  <li>IT Lead for implementation of Infor Food and Beverage Suite as well as the Advanced Supply Chain Planning extension, covering constraint-based supply planning, harvest containment, demand planning, production scheduling, and recipe management models.</li>
-  <li>Responsible for IT support and enhancement of the monthly S&OP cycle, implementing a unified application with interface, data, reporting, and review layers—replacing a
+  <li>IT Lead for implementation of Infor Food and Beverage Suite and Advanced Supply Chain Planning, covering constraint-based supply planning, demand planning, scheduling, and recipe management.</li>
+  <li>Responsible for IT support and enhancement of the monthly S&OP cycle, developing a unified interface and reporting layer that replaced disconnected file-based processes.</li>
+  <li>Enterprise Systems PMO supporting all vendor, PO, and budget inquiries for ERP and fiscal budgets.</li>
+</ul>
+
+<p><strong>Sr. Solution Delivery Lead – Sales and Marketing</strong></p>
+<ul>
+  <li>Sales and Marketing IT Lead on a multi-million-dollar transformational ERP agenda.</li>
+  <li>Organized and managed a cross-functional Sales and Marketing team ensuring a three-in-a-box business-led decision approach.</li>
+  <li>Completed Phase 0 analysis documenting pain points, requirements, and future state design.</li>
+  <li>Provided estimates for integration and decommissioning activities beyond ERP scope.</li>
+  <li>Socialized information to align stakeholders and ensure confidence in project direction.</li>
+  <li>Identified and formalized shadow IT functions into the IT Center of Excellence.</li>
+  <li>Implemented continuous system improvement initiatives.</li>
+  <li>Enhanced Blacksmith auto-clearing for deduction processing efficiency.</li>
+  <li>Partnered with Trade Promotions vendor to improve deduction allocation accuracy.</li>
+  <li>Created forecasting automation for raw materials using Power Query and Trade Promotion Management systems.</li>
+  <li>Transitioned reporting into Power BI for greater automation and insight.</li>
+  <li>Led Product Information Management discovery and initiated capital project for Salsify improvements.</li>
+  <li>Ensured ADA compliance for corporate website.</li>
+  <li>Developed solution architects aligned with career goals and competency expansion.</li>
+  <li>Assisted in recovery planning and remediation post-cyber attack.</li>
+</ul>
+
+<p><strong>Solution Delivery Lead – Sales and Marketing</strong></p>
+<ul>
+  <li>Oversaw IT people, processes, and technology for Sales and Marketing functions.</li>
+  <li>Served as SME on Product Information and Trade Promotion Management systems (Blacksmith, Oracle, Salsify, 1WorldSync).</li>
+  <li>Member of IT Leadership Team managing two solution architects and budgets.</li>
+  <li>Defined short- and long-term Sales & Marketing system strategies.</li>
+  <li>Supported broker commission process and ensured reporting accuracy.</li>
+  <li>Expanded IT support to category management, media spend, PLM, and customer insights.</li>
+  <li>Implemented system and process continuous improvements.</li>
+  <li>Delivered trade reporting enhancements and scenario planning automation.</li>
+  <li>Implemented Syndigo Marketplace to expand product data syndication to 100+ retailers.</li>
+  <li>Closed resourcing gaps by onboarding managed service partners for product data accuracy.</li>
+</ul>
+
+<p><strong>Business Process Specialist – Sales and Marketing</strong></p>
+<ul>
+  <li>Led $125k Trade Promotion Management system implementation (Blacksmith), completed on time and on budget.</li>
+  <li>Created business cases and value stream mapping yielding measurable ROI.</li>
+  <li>Restructured Welch’s customer hierarchy in Oracle ERP to eliminate input errors.</li>
+  <li>Estimated elimination of 3,000 hours/year of non-value work and $130k in trade reductions.</li>
+  <li>Ensured quality and accuracy of product information shared with retailers (Walmart, Target).</li>
+  <li>Maintained Oracle, Salsify, and 1WorldSync data integrity.</li>
+  <li>Provided IT support and Power BI automation for sales planning and accounts receivable functions.</li>
+</ul>
+
+<p><strong>Origlio Beverage Inc., Philadelphia, PA (2018 – 2020)</strong></p>
+<p><strong>Business Analyst</strong></p>
+<ul>
+  <li>Presented migration analysis from Tableau to Amazon Quicksight, saving $15,000 annually and expanding analytics access to 200 users.</li>
+  <li>Led implementation of ADP Enhanced Time software, reducing payroll prep by one day per cycle.</li>
+  <li>Created Tableau dashboards that reduced order errors by 18,000 units annually.</li>
+  <li>Managed pricing database setup, supplier cost maintenance, and rebate validation.</li>
+  <li>Streamlined new product approval through Power Apps automation, saving one hour daily per sales rep.</li>
+</ul>
+
+<p><strong>The Vanguard Group, Malvern, PA (2017 – 2018)</strong></p>
+<p><strong>Brokerage Investments Professional</strong></p>
+<ul>
+  <li>Analyzed market reports to inform client investment strategy.</li>
+  <li>Guided clients through asset allocation and long-term investing concepts.</li>
+  <li>Delivered above-average service quality per company metrics.</li>
+  <li>Tutored new employees on licensing exam topics and financial principles.</li>
+  <li>Led peer learning on complex financial instruments like derivatives.</li>
+</ul>
+
+<p><strong>Education</strong></p>
+<ul>
+  <li><strong>Master of Science, Applied Business Analytics (2021–Current)</strong><br>
+      Boston University, Metropolitan College – Boston, MA<br>
+      STEM Designated, AACSB Accredited</li>
+  <li><strong>Bachelor of Science, Finance and Economics Double Major (2013–2017)</strong><br>
+      Susquehanna University, Sigmund Weis School of Business – Selinsgrove, PA<br>
+      AACSB Accredited</li>
+</ul>
+
+<p><strong>Organizations and Community Service</strong></p>
+<ul>
+  <li>Special Olympics Massachusetts Volunteer</li>
+  <li>Special Olympics Pennsylvania Volunteer</li>
+  <li>Susquehanna University Varsity Baseball</li>
+  <li>Student Financial Analyst – River Hawk Investment Fund</li>
+  <li>Student Financial Analyst – CFA Institute Research Challenge</li>
+</ul>
+
 
