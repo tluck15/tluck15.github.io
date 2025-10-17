@@ -6,17 +6,11 @@ title: "About"
 format: html
 ---
 
-# About This Site
+# About Me
 
-Here’s a simple sine wave plot:
+## I am an IT Senior Solution Architect at Welch’s supporting supply chain planning. Member of IT leadership team and PMO for enterprise systems. Pursuing a master's degree in Applied Business Analytics at Boston University. Core competencies in data analysis, trade promotion planning, product information management, team building, SaaS project and solution delivery, departmental budgeting, sales forecasting, S&OP processes, and leadership.
 
-```{python}
-import matplotlib.pyplot as plt
-import numpy as np
+## Outside of work and school I have a lovely family which includes my wife, 1 year old son, and two cats. I enjoy the outdoors, hanging with a few friends at the pub, and following the The Arsenal Football Club wherever they go.
 
-x = np.linspace(0, 2*np.pi, 100)
-y = np.sin(x)
 
-plt.plot(x, y)
-plt.title("Sine Wave")
-plt.show()
+

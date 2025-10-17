@@ -2,9 +2,23 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "📄 about.qmd (about page)",
+    "title": "About",
     "section": "",
-    "text": "Filename: about.qmd ```markdown — title: “About” format: html —\n\nAbout This Site\nHere’s a simple sine wave plot:\nimport matplotlib.pyplot as plt import numpy as np\nx = np.linspace(0, 2*np.pi, 100) y = np.sin(x)\nplt.plot(x, y) plt.title(“Sine Wave”) plt.show()"
+    "text": "Filename: about.qmd ```markdown — title: “About” format: html —"
+  },
+  {
+    "objectID": "about.html#i-am-an-it-senior-solution-architect-at-welchs-supporting-supply-chain-planning.-member-of-it-leadership-team-and-pmo-for-enterprise-systems.-pursuing-a-masters-degree-in-applied-business-analytics-at-boston-university.-core-competencies-in-data-analysis-trade-promotion-planning-product-information-management-team-building-saas-project-and-solution-delivery-departmental-budgeting-sales-forecasting-sop-processes-and-leadership.",
+    "href": "about.html#i-am-an-it-senior-solution-architect-at-welchs-supporting-supply-chain-planning.-member-of-it-leadership-team-and-pmo-for-enterprise-systems.-pursuing-a-masters-degree-in-applied-business-analytics-at-boston-university.-core-competencies-in-data-analysis-trade-promotion-planning-product-information-management-team-building-saas-project-and-solution-delivery-departmental-budgeting-sales-forecasting-sop-processes-and-leadership.",
+    "title": "About",
+    "section": "I am an IT Senior Solution Architect at Welch’s supporting supply chain planning. Member of IT leadership team and PMO for enterprise systems. Pursuing a master’s degree in Applied Business Analytics at Boston University. Core competencies in data analysis, trade promotion planning, product information management, team building, SaaS project and solution delivery, departmental budgeting, sales forecasting, S&OP processes, and leadership.",
+    "text": "I am an IT Senior Solution Architect at Welch’s supporting supply chain planning. Member of IT leadership team and PMO for enterprise systems. Pursuing a master’s degree in Applied Business Analytics at Boston University. Core competencies in data analysis, trade promotion planning, product information management, team building, SaaS project and solution delivery, departmental budgeting, sales forecasting, S&OP processes, and leadership."
+  },
+  {
+    "objectID": "about.html#outside-of-work-and-school-i-have-a-lovely-family-which-includes-my-wife-1-year-old-son-and-two-cats.-i-enjoy-the-outdoors-hanging-with-a-few-friends-at-the-pub-and-following-the-the-arsenal-football-club-wherever-they-go.",
+    "href": "about.html#outside-of-work-and-school-i-have-a-lovely-family-which-includes-my-wife-1-year-old-son-and-two-cats.-i-enjoy-the-outdoors-hanging-with-a-few-friends-at-the-pub-and-following-the-the-arsenal-football-club-wherever-they-go.",
+    "title": "About",
+    "section": "Outside of work and school I have a lovely family which includes my wife, 1 year old son, and two cats. I enjoy the outdoors, hanging with a few friends at the pub, and following the The Arsenal Football Club wherever they go.",
+    "text": "Outside of work and school I have a lovely family which includes my wife, 1 year old son, and two cats. I enjoy the outdoors, hanging with a few friends at the pub, and following the The Arsenal Football Club wherever they go."
   },
   {
     "objectID": "cv.html",
